@@ -3,7 +3,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,go,python,java,php" /> <br /><br />
 
 ## Frameworks and Library
 
